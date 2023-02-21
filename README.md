@@ -1,7 +1,7 @@
 
 
-  <a href="https://twitter.com/D1rkMtr"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=0B0B0B&label=D1rkMtr&logo=Twitter&logoColor=0B0B0B&style=for-the-badge&url=https://twitter.com/D1rkMtr">
-  <a href="https://github.com/TheD1rkMtr"><img src="https://img.shields.io/github/followers/TheD1rkMtr?color=0B0B0B&logoColor=0B0B0B&logo=github&style=for-the-badge">
+  <a href="https://twitter.com/D1rkMtr"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=A4C2B1&label=D1rkMtr&logo=Twitter&logoColor=A4C2B1&style=for-the-badge&url=https://twitter.com/D1rkMtr">
+  <a href="https://github.com/TheD1rkMtr"><img src="https://img.shields.io/github/followers/TheD1rkMtr?color=A4C2B1&logoColor=A4C2B1&logo=github&style=for-the-badge">
 <br /><br />
 
 
