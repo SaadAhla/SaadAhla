@@ -7,4 +7,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheD1rkMtr&show_icons=true&theme=dark" width="380">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheD1rkMtr&layout=compact&theme=dark" width="380">
+    
+## ❤️ Sponsoring
+
+If you like or rely on the work I do, please consider [sponsoring me](https://github.com/sponsors/TheD1rkMtr). I do open source in my free time and it would be really great if I could do more of it.
 
