@@ -10,7 +10,7 @@
 
 ## 🔧 Tooling 
 
-If you're looking for FUD tools, you've come to the right place. [https://t.me/d1rkmtr](https://t.me/d1rkmtr)
+I Create FUD Tools for you : [https://t.me/d1rkmtr](https://t.me/d1rkmtr)
 
 
 ## ❤️ Sponsoring
