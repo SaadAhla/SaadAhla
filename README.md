@@ -2,4 +2,4 @@
 
 ## ❤️ Sponsoring
 
-[buy me a beer](https://github.com/sponsors/TheD1rkMtr).
+[buy me a coffee or beer](https://github.com/sponsors/TheD1rkMtr).
