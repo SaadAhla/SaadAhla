@@ -5,11 +5,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheD1rkMtr&show_icons=true&line_height=33&count_private=true&theme=dark" alt="TheD1rkMtr's GitHub Stats" />
 </a>
 
-<a href="https://hasherezade.net">
+<a href="https://twitter.com/D1rkMtr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheD1rkMtr&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
 
-<a href="https://hasherezade.net">
+<a href="https://twitter.com/D1rkMtr">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheD1rkMtr&theme=dark" />
 </a>
 <br/>
