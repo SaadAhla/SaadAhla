@@ -23,6 +23,6 @@ You want me to make a custom program? Contact me at [Telegram](https://t.me/Bla1
 
 ## ❤️ Sponsoring
 
-[buy me a coffee or beer](https://github.com/sponsors/SaadAhla).  
+[buy me a coffee](https://github.com/sponsors/SaadAhla).  
 
 
