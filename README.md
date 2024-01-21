@@ -19,7 +19,7 @@
 
 ## 💻 Custom Tool 
 
-You want me to make a custom program? Contact me at [Telegram](https://t.me/Bla1ak)
+You want me to make a custom Tool? Contact me at [Telegram](https://t.me/Bla1ak)
 
 ## ❤️ Sponsoring
 
