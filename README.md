@@ -20,4 +20,5 @@
 
 ## ❤️ Sponsoring
 
-[buy me a coffee or beer](https://github.com/sponsors/SaadAhla).
+[buy me a coffee or beer](https://github.com/sponsors/SaadAhla).  
+You want me to make a custom program? Contact me at [Telegram](https://t.me/Bla1ak)
