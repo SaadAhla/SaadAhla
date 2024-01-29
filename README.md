@@ -14,7 +14,7 @@
 </a>
 <br/>
 <a href="https://twitter.com/d1rkmtr">
-  <img src="https://img.shields.io/twitter/follow/SaadAhla?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+  <img src="https://img.shields.io/twitter/follow/d1rkmtr?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
 
 ## 💻 Custom Tool 
