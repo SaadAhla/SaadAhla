@@ -4,6 +4,8 @@ Would you like me to make a custom Tool? Contact me at [Telegram](https://t.me/B
 
 #### &#x1f4c8; My GitHub Stats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SaadAhla&label=Profile%20views&color=0e75b6&style=flat" alt="SaadAhla" /> </p>
+
 <a href="https://twitter.com/d1rkmtr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaadAhla&show_icons=true&line_height=33&count_private=true&theme=dark" alt="SaadAhla's GitHub Stats" />
 </a>
