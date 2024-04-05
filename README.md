@@ -19,7 +19,9 @@ Would you like me to make a custom Tool? Contact me at [Telegram](https://t.me/B
 <a href="https://twitter.com/d1rkmtr">
   <img src="https://img.shields.io/twitter/follow/d1rkmtr?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
-
+<a href="https://github.com/SaadAhla">
+  <img src="https://img.shields.io/github/followers/SaadAhla?style=for-the-badge&logo=github&labelColor=1f1f1f&color=5fffaf" />
+</a>
 
 ## ❤️ Sponsoring
 
