@@ -1,6 +1,6 @@
 ## 💻 Custom Tool 
 
-Would you like me to make a custom Tool? Contact me at [LinkedIn](https://www.linkedin.com/in/saad-ahla/) or [Telegram](https://t.me/Bla1ak)
+Would you like me to make a custom Tool, Evaluate your defenses, or Emulate APTs? Contact me at [LinkedIn](https://www.linkedin.com/in/saad-ahla/) or [Telegram](https://t.me/Bla1ak)
 
 #### &#x1f4c8; My GitHub Stats
 
