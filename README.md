@@ -1,6 +1,6 @@
 ## 💻 Custom Tool 
 
-Would you like me to make a custom Tool? Contact me at [Telegram](https://t.me/Bla1ak)
+Would you like me to make a custom Tool? Contact me at [Gmail](saaad.ahla@gmail.com) or [Telegram](https://t.me/Bla1ak)
 
 #### &#x1f4c8; My GitHub Stats
 
